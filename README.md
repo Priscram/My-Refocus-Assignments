@@ -1,7 +1,7 @@
 # coding_challenge from My Refocus Assignments
 Hi I am Priscram and I'd love to pursue my passion about Javascript coding.
 My hobbies are sinnging while I got coding challenge resolved, and in my spare time going into our small farm enjoying the freshness of nature at Montevista, Davao de Oro, Philippines.
-One of my key milestones in life is to become a master full stack web developer. My goal in this learning journey is to master Javascript and the latest emerging technologies.
+One of my key milestones in life is to become a master full stack web developer. My goal in this learning journey is to master Javascript and the latest emerging technologies, hence, I can land a better job in the IT industry.
 Learning to code with real case projects using visual studio code. Great learning challenge from refocus team. 
 I am encouragung generous developers to contribute to my learning journey by giving me tips in coding particularly in Javascript.
 My way of giving you credits to your contribution is by mentioning your names when I share this repo to my friends.
