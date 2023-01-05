@@ -1,0 +1,6 @@
+{
+    "code-runner.clearPreviousOutput": true,
+    "editor.wordWrap": "on",
+    "problems.showCurrentInStatus": true,
+    "debug.console.wordWrap": false
+}
