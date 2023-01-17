@@ -24,7 +24,7 @@ const normalBMI = {
 //let feet = 1;
 
 function checkBMI(weight, height) {
-    let BMI = (weight / (height * height));
+    let BMI = Math.max(weight / (height * height)).toFixed(2);
     normalBMI.weight = weight;
     normalBMI.height = height;
     normalBMI.actualBMI = BMI;
@@ -37,4 +37,4 @@ function checkBMI(weight, height) {
         console.log(`${normalBMI.withinNormalBMI()}`);
     }
 }
-const checkUpBMI = checkBMI(64, 4);
+const checkUpBMI = checkBMI(60, 1.80);
